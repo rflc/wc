@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="154.72" viewBox="0 0 100 154.72">
+  <defs>
+    <linearGradient id="linear-gradient" y1="41.87" x2="98.62" y2="41.87" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed1c24"/>
+      <stop offset="0.08" stop-color="#b22346"/>
+      <stop offset="0.22" stop-color="#542d7c"/>
+      <stop offset="0.28" stop-color="#2e3192"/>
+      <stop offset="0.36" stop-color="#29459e"/>
+      <stop offset="0.51" stop-color="#225faf"/>
+      <stop offset="0.64" stop-color="#1d6fb9"/>
+      <stop offset="0.74" stop-color="#1c75bc"/>
+      <stop offset="0.76" stop-color="#2067b4"/>
+      <stop offset="0.8" stop-color="#2650a5"/>
+      <stop offset="0.84" stop-color="#2a3e9a"/>
+      <stop offset="0.88" stop-color="#2d3494"/>
+      <stop offset="0.94" stop-color="#2e3192"/>
+    </linearGradient>
+  </defs>
+  <g id="years">
+    <text transform="translate(2.65 124.68)" font-size="32.64" font-family="MarkerFelt-Wide, Marker Felt"><tspan letter-spacing="0.02em">Y</tspan><tspan x="21.96" y="0" letter-spacing="0.03em">E</tspan><tspan x="38.44" y="0" letter-spacing="0.03em">A</tspan><tspan x="61.12" y="0">RS</tspan></text>
+    <text transform="translate(4.84 147.9) scale(1.64 1)" font-size="16.59" font-family="AvenirNextCondensed-Regular, Avenir Next Condensed">Est<tspan x="16.72" y="0" letter-spacing="-0.03em">.</tspan><tspan x="19.82" y="0" xml:space="preserve">  2012</tspan></text>
+  </g>
+  <g id="_10" data-name="10">
+    <path d="M28.27,77.59a6.83,6.83,0,0,1-1.45,4.27,4.18,4.18,0,0,1-3.65,1.78c-1-.06-3.53-1.43-7.5-4.08s-6-4.51-6.06-5.53a7.59,7.59,0,0,1,.29-1.78,7.49,7.49,0,0,0,.29-1.68V30.19c0-1.48-1.44-2.53-4.33-3.17Q1.06,25.87.38,23.84a6,6,0,0,1-.38-2,8.94,8.94,0,0,1,2.12-5,51.34,51.34,0,0,0,3.46-5.09c.77-2.5,1.53-5,2.3-7.5Q9.52,0,13.56,0a15.81,15.81,0,0,1,8.26,2.5q4.62,2.79,4.62,6.34V72.59A5.06,5.06,0,0,0,27.35,75,5.12,5.12,0,0,1,28.27,77.59ZM88.62,4.42q4.71,1.06,7.5,10,2.49,8.37,2.5,20.77a105,105,0,0,1-3.94,28.45Q89,83.74,78.14,83.74a13.29,13.29,0,0,1-4.23-.87c-2.69-1-4.17-1.57-4.42-1.63-1.73-.71-4.59-1.76-8.56-3.17q-4.82-1.63-7.88-13.66a103.31,103.31,0,0,1-2.89-25.67q0-14.31,3-24.42Q56.41,3,62.66.77a2.7,2.7,0,0,1,2.4.48c.64.38,1.12.51,1.45.38a17.54,17.54,0,0,1,5.76-1,30,30,0,0,1,8.27,1.45C85.35,3.53,88,4.29,88.62,4.42ZM76.5,10.58q-4.6,0-7.21,10.38a84.94,84.94,0,0,0-2,19.51,98.68,98.68,0,0,0,2,19q2,10.2,3.95,10.19Q77,69.7,79.39,58a127.47,127.47,0,0,0,2-24,94.25,94.25,0,0,0-1.16-16.35Q78.91,10.59,76.5,10.58Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
